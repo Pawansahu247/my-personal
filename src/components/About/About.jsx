@@ -32,8 +32,8 @@ export default function About() {
                         </p>
                         <h3 className="text-xl font-semibold mt-8 text-gray-900">Education</h3>
 <p className="mt-2 text-gray-600">
-🎓 B.Tech in Computer Science (2022–2026)<br />
-XYZ Engineering College, India
+🎓 B.sc in Computer Science (2023–2026)<br />
+Marwari College Ranchi, India
 </p>
 
 <h3 className="text-xl font-semibold mt-6 text-gray-900">Certifications</h3>
